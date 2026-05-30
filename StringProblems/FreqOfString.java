@@ -1,4 +1,3 @@
-package StringProblems;
 public class FreqOfString {
     public static void main(String[] args) {
         String str = "Hello";
