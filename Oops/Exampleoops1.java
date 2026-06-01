@@ -1,6 +1,6 @@
 package Oops;
 
-public class Student {
+class Student{
     String name;
     int rollno;
     int marks;
